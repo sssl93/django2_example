@@ -1,0 +1,4 @@
+celery
+uvicorn
+channels
+django_celery_results

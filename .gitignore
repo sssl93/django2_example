@@ -1,0 +1,14 @@
+*.DS_Store
+*.log
+*.pyc
+*.pyo
+*.sqlite?
+*.sw?
+.venv
+*/.venv/*
+*.pyc
+*.pid
+*.sock
+*.orig
+*.lock
+
